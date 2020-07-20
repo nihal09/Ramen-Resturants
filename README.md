@@ -1,6 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# Hotel Lister 🏠
+Front end application that lists top Ramen restaurants of the world by fetching web API to get restaurant details. A functionality to list top restaurants from different years, a live search box to get restaurant details. Feature to list restaurants based on the country 
+
+## Includes
+- Webpack `3`
+- React
 
 In the project directory, you can run:
 
